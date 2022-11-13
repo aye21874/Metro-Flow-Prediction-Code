@@ -94,14 +94,12 @@ was done to understand the travel demand at different stations.
 > data. The passenger entering different station is shown in Fig 2 and
 > the passengers exiting different stations are shown in Fig 3.
 >
-> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true){width="4.75in"
-> height="5.277148950131234in"}
-
+> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true)
+> 
 Figure 2
 
-> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true){width="5.297384076990376in"
-> height="5.885416666666667in"}
->
+> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true)
+
 > Figure 3
 
 4.2 **Travel pattern during the day**: The inflow and outflow of
