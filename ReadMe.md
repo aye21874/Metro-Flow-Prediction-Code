@@ -50,8 +50,7 @@ title: MRTS FLOW PREDICTION
 > College to Aluva.
 >
 > ![Image result for kochi metro
-> map](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true){width="5.854166666666667in"
-> height="3.89917760279965in"}
+> map](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true)
 >
 > Figure 1
 >
@@ -95,12 +94,12 @@ was done to understand the travel demand at different stations.
 > data. The passenger entering different station is shown in Fig 2 and
 > the passengers exiting different stations are shown in Fig 3.
 >
-> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](vertopal_81e18884f9f6456a8145203a5b26e3f7/media/image2.png){width="4.75in"
+> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true){width="4.75in"
 > height="5.277148950131234in"}
 
 Figure 2
 
-> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](vertopal_81e18884f9f6456a8145203a5b26e3f7/media/image3.png){width="5.297384076990376in"
+> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true){width="5.297384076990376in"
 > height="5.885416666666667in"}
 >
 > Figure 3
@@ -120,8 +119,7 @@ exit, after which a line plot is done. In figure 4 the visualization for
 a single day in December 2017 of outflow volume of 16 stations is
 presented.
 
-> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\C5C46BB6.tmp](vertopal_81e18884f9f6456a8145203a5b26e3f7/media/image4.png){width="6.929166666666666in"
-> height="3.7666666666666666in"}
+> ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\C5C46BB6.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image4.png?raw=true)
 
 Figure 4
 
