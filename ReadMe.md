@@ -50,7 +50,7 @@ title: MRTS FLOW PREDICTION
 > College to Aluva.
 >
 > ![Image result for kochi metro
-> map](vertopal_81e18884f9f6456a8145203a5b26e3f7/media/image1.jpeg){width="5.854166666666667in"
+> map](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true){width="5.854166666666667in"
 > height="3.89917760279965in"}
 >
 > Figure 1
