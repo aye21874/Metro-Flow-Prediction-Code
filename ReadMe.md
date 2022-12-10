@@ -4,24 +4,11 @@ title: MRTS FLOW PREDICTION
 
 # Introduction
 
-> Mass Rapid Transit Systems (MRTS), also referred to metro system,
-> generate a lot of data. These data have a potential to give useful
-> visualization. Analyzing it, we can come up with applications and
-> solutions to improve and benefit these systems. One of such
-> applications is of predicting passenger ridership between any given
-> two stations in the metro network.
->
-> The historical data visualization helps to design the system
-> infrastructure. Predicting ridership at a station helps on many fronts
-> and enables real time decision making with a potential to optimize
-> resources. Some useful actions for the metro management with the daily
-> ridership prediction are:
+Mass Rapid Transit Systems (MRTS), also referred to metro system,
+generate a lot of data. These data have a potential to give useful visualization. Analyzing it, we can come up with applications and solutions to improve and benefit these systems. One of such applications is of predicting passenger ridership between any given two stations in the metro network. The historical data visualization helps to design the system infrastructure. Predicting ridership at a station helps on many fronts and enables real time decision making with a potential to optimize resources. Some useful actions for the metro management with the daily ridership prediction are:
 
 -   Scheduling more trains on busy stretches automatically.
-
--   Helping advertising companies do bidding for ad spots in real-time
-    > (on digital displays)
-
+-   Helping advertising companies do bidding for ad spots in real-time (on digital displays)
 -   Aiding managers to regulate staffing more effectively
 
 # Methodology
