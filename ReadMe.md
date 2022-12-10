@@ -135,17 +135,17 @@ Maharajas College.
  Edapally, Changampuzha, Pathadipalam and three destinations M.G Road,
  Lissie and Maharajas College).
 
-  **Index**   **Origin**          **Destination**     **Number of passengers travelling(on a date)**
-  ----------- ------------------- ------------------- ------------------------------------------------
-  **0**       Changampuzha Park   Lissie              53
-  **1**       Changampuzha Park   M.G Road            152
-  **2**       Changampuzha Park   Maharajas College   326
-  **3**       Edapally            Lissie              751
-  **4**       Edapally            M.G Road            1091
-  **5**       Edapally            Maharajas College   2570
-  **6**       Pathadipalam        Lissie              42
-  **7**       Pathadipalam        M.G Road            98
-  **8**       Pathadipalam        Maharajas College   201
+  |Index| Origin | Destination | Number of passengers | travelling(on a date) |
+  | --- | ------ | ----------- | -------------------- | --------------------- |
+  | 0   | Changampuzha Park |   Lissie | 53 |
+  | 1   | Changampuzha Park |   M.G Road | 152 |
+  | 2   | Changampuzha Park |  Maharajas College | 326 |
+  | 3   | Edapally | Lissie | 751 |
+  | 4   | Edapally | M.G Road | 1091 |
+  | 5   | Edapally | Maharajas College | 2570 |
+  | 6   | Pathadipalam | Lissie | 42 |
+  | 7   | Pathadipalam | M.G Road | 98 |
+  | 8   | Pathadipalam | Maharajas College | 201 |
 
  Table 1
 
