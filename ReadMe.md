@@ -87,11 +87,21 @@ was done to understand the travel demand at different stations.
  data. The passenger entering different station is shown in Fig 2 and
  the passengers exiting different stations are shown in Fig 3.
 
- ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true)
+<!--  ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\D7E68ECF.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true) -->
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image2.png?raw=true">
+</picture>
  
 Figure 2
-
- ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true)
+<!-- 
+ ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\613BD0AD.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true) -->
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image3.png?raw=true">
+</picture>
 
  Figure 3
 
@@ -110,7 +120,12 @@ exit, after which a line plot is done. In figure 4 the visualization for
 a single day in December 2017 of outflow volume of 16 stations is
 presented.
 
- ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\C5C46BB6.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image4.png?raw=true)
+<!--  ![C:\\Users\\MAHE\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\C5C46BB6.tmp](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image4.png?raw=true) -->
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image4.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image4.png?raw=true">
+</picture>
 
 Figure 4
 
