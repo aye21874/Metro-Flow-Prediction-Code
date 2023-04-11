@@ -36,8 +36,14 @@ generate a lot of data. These data have a potential to give useful visualization
  work, the Kochi Metro network was linear, stretching from Maharajas
  College to Aluva.
 
- ![Image result for kochi metro
- map](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true)
+<!--  ![Image result for kochi metro
+ map](https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true) -->
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aye21874/Metro_Flow_Prediction_Code/blob/master/image1.jpeg?raw=true">
+</picture>
+
 
  Figure 1
 
